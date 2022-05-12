@@ -24,7 +24,7 @@
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "@openzeppelin/contracts": "^4.3.2",
     "@supabase/supabase-js": "^1.28.5",
-    "@trpc/client": "^9.10.1",
+    "@trpc/client": "^9.22.0",
     "@trpc/next": "^9.10.1",
     "@trpc/react": "^9.10.1",
     "@trpc/server": "^9.10.1",
